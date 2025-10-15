@@ -94,11 +94,11 @@ Below is a visualization of the denoising process, showing the image at differen
 | t = 300 | More noise |
 | t = 500 | Almost full noise |
 
-⬇️ **Generated Image (put your output image here)**  
+<!-- ⬇️ **Generated Image (put your output image here)**  
 *(you can upload your output image below)*  
 
 ![Generated Image Placeholder](path_to_output_image.png)
-
+-->
 ---
 
 ## ⚙️ Configuration
