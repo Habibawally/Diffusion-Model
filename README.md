@@ -1,4 +1,4 @@
-# 🌀 Diffusion Models —
+# 🌀 Diffusion Models 
 
 ## 📖 Overview
 This project implements a **Diffusion Model** from scratch using **PyTorch** on the **CIFAR-10 dataset**.  
@@ -35,9 +35,9 @@ x_t = \sqrt{\alpha_t} \, x_0 + \sqrt{1 - \alpha_t} \, \epsilon
 \]
 
 - Sampling process for denoising
-![Uploading image.png…]()
 
----
+---![Uploading Screenshot 2025-10-15 113003.png…]()
+
 
 ### 5️⃣ Model Architecture
 
