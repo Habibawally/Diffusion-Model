@@ -37,9 +37,6 @@ x_t = \sqrt{\alpha_t} \, x_0 + \sqrt{1 - \alpha_t} \, \epsilon
 
 - Sampling process for denoising
 
----![Uploading Screenshot 2025-10-15 113003.png…]()
-![Generated Image]("C:\Users\ayawa\OneDrive\Pictures\photoshop\Screenshots\Screenshot 2025-10-15 113003.png")
-
 
 ### 5️⃣ Model Architecture
 
