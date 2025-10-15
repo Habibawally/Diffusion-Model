@@ -28,7 +28,7 @@ A grid of CIFAR-10 images is displayed to verify preprocessing.
 ### 4️⃣ Diffusion Utilities
 Implements:
 - Linear and cosine **beta schedulers**
- ![Generated Image 1]( images/alpha values of cosine,Linear scheduling.png)
+ ![Generated Image 1]( images/alpha_values_of_cosine,Linear_scheduling.png)
  
 - Noise addition using the formula:
 \[
