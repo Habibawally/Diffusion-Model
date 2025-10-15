@@ -52,6 +52,8 @@ x_t = \sqrt{\alpha_t} \, x_0 + \sqrt{1 - \alpha_t} \, \epsilon
 `DiffusionNet` connects Encoder + Decoder to predict noise.
 
 ---
+![Generated Image 1](images/linear_beta_Scheduling.png)
+
 
 ### 6️⃣ Training Pipeline
 Handles:
