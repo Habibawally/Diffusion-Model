@@ -106,11 +106,11 @@ Below is a visualization of the denoising process, showing the image at differen
 | Parameter | Value |
 |------------|--------|
 | Image Size | 64×64 |
-| Epochs | 20 |
-| Learning Rate | 1e-4 |
+| Epochs | 50 |
+| Learning Rate | 1e-5 |
 | Scheduler | Cosine |
-| Timesteps (T) | 500 |
-| Batch Size | 10 |
+| Timesteps (T) | 1000 |
+| Batch Size | 64 |
 
 ---
 
